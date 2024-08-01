@@ -1,14 +1,21 @@
-## Hi there 👋
+# Hi there 👋
 
-**aryansonid/aryansonid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Senior Blockchain Developer
 
-Here are some ideas to get you started:
+**Languages:**
+Go, Solidity, Javascript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**Frameworks:**
+Tendermint, Cosmos, go-ethereum
+
+**Blockchains:**
+Ethereum, Near, OP Stack, Arbitrum Nitro, ZK
+
+**Libraries:**
+Gossip, libp2p, go-routines, semaphore, go-socket, go-orderbook, pub-sub, DHT, reactjs, redux
+
+**Tools:**
+go-derive, multithreading, go-workers, go-streams, NPM, Yarn, Vite, Webpack, Git, DevOps, Jenkins, CI/CD
+
+**Soft Skills:**
+Excellent communication, Troubleshooting, Problem Solving, Team Management, Decision Making
